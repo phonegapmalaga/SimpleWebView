@@ -85,9 +85,9 @@
 			children = (
 				1773B5F617258FB500E80F0E /* AppDelegate.h */,
 				1773B5F717258FB500E80F0E /* AppDelegate.m */,
-				1773B5FF17258FB500E80F0E /* MainStoryboard.storyboard */,
 				1773B60217258FB500E80F0E /* ViewController.h */,
 				1773B60317258FB500E80F0E /* ViewController.m */,
+				1773B5FF17258FB500E80F0E /* MainStoryboard.storyboard */,
 				1773B5EE17258FB500E80F0E /* Supporting Files */,
 			);
 			path = SimpleWebView;
